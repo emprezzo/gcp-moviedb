@@ -1,0 +1,101 @@
+id,name,calories,calories_from_fat,total_fat,saturated_fat,trans_fat,polyunsat_fat,monounsat_fat,cholesterol,sodium,potassium,carbohydrates,dietary_fiber,sugars,protein,data_source
+0,House-made Caramel Corn Large (canola oil),2630,550,62,20,0,12,26,70,140,870,507,22,318,20,amc
+1,House-made Caramel Corn Medium (canola oil),1840,380,43,14,0,8,18,50,100,610,355,15,222,14,amc
+2,House-made Caramel Corn Small (canola oil),1120,230,26,9,,5,11,30,60,370,216,9,136,9,amc
+3,House-made Cheese Corn Large (canola oil),1600,1010,114,47,0,19,42,25,970,720,131,22,10,27,amc
+4,House-made Cheese Corn Medium (canola oil),1120,700,80,33,0,14,29,15,680,500,92,15,7,19,amc
+5,House-made Cheese Corn Small (canola oil),680,430,49,20,0,8,18,10,410,310,56,9,4,11,amc
+6,Plain Popcorn (No Butter) Cameo (canola oil),300,120,13,1,,4,7,,740,170,41,8,,7,amc
+7,Plain Popcorn (No Butter) Medium (canola oil),600,240,27,2,0,8,15,,1530,350,82,15,,14,amc
+8,Plain Popcorn Refillable Tub(No Butter)190 fl oz (canola oil),1090,440,49,4,0,15,28,,2650,630,148,28,2,25,amc
+9,Plain Popcorn Tub( No Butter) 170 fl oz (canola oil),980,390,44,3.5,0,13,25,,2400,560,132,25,1,22,amc
+10,House-made Caramel Corn Large (coconut oil),2630,540,61,41,,4.5,10,70,140,880,508,22,318,20,amc
+11,House-made Caramel Corn Medium (coconut oil),1840,380,43,29,,3,7,50,100,610,355,15,222,14,amc
+12,House-made Caramel Corn Small (coconut oil),1120,230,26,18,,2,4.5,30,60,370,216,9,136,9,amc
+13,House-made Cheese Corn Large (coconut oil),1590,1000,113,69,0,12,26,25,970,720,131,22,10,27,amc
+14,House-made Cheese Corn Medium (coconut oil),1110,700,79,48,0,8,18,15,680,500,92,15,7,19,amc
+15,House-made Cheese Corn Small (coconut oil),680,430,48,29,0,5,11,10,410,310,56,9,4,11,amc
+16,Plain Popcorn (No Butter) Cameo (coconut oil),300,120,13,9,,1,1,,740,170,41,8,,7,amc
+17,Plain Popcorn (No Butter) Medium (coconut oil),600,230,27,19,,2.5,2.5,,1530,350,82,15,,14,amc
+18,Plain Popcorn Refillable Tub(No Butter)190 fl oz (coconut oil),1080,420,48,35,,4.5,4.5,,2650,630,148,28,2,25,amc
+19,Plain Popcorn Tub( No Butter) 170 fl oz (coconut oil),970,380,43,31,,4,4,,2400,560,132,25,1,22,amc
+20,Caramel Corn 46 fl oz,1270,300,35,23,,,,,1610,450,242,,149,11,amc
+21,Caramel Corn 85 fl oz,2340,560,64,43,,,,,2980,830,446,,276,21,amc
+22,Cheddar Corn 46 fl oz,2070,1420,161,104,,,,60,3220,710,127,,11,23,amc
+23,Cheddar Corn 85 fl oz,3830,2630,298,191,,,,105,5950,1320,234,,21,43,amc
+24,Cheddar Crunch 46 fl oz,2430,1610,183,106,,11,7,60,3750,820,163,2,14,28,amc
+25,Cheddar Crunch 85 fl oz,4550,3010,341,196,,22,14,105,7010,1530,306,5,26,52,amc
+26,$1 Dog,270,130,15,5,,,,30,730,,26,1,4,9,amc
+29,BBQ Chicken Flatbread Pizza,800,270,30,14,,,,90,1020,,92,4,16,36,amc
+30,Boneless Wings (Baked),360,160,18,3,,9,5,65,870,,21,,,27,amc
+31,Buffalo Chicken Flatbread Pizza ,740,250,28,12,,,,80,1840,,86,4,6,36,amc
+32,Cheeseburger Slider (a la Carte),300,170,19,7,,,0.5,40,490,5,19,,4,11,amc
+33,Cheeseburger Sliders Box with Royal Sauce,1450,810,92,30,0,13,10,95,2200,650,125,7,31,30,amc
+34,Chicken & Waffles (a la Carte),350,160,18,8,,3,1.5,30,420,,35,2,18,8,amc
+35,Chicken & Waffles Box with Honey Mustard,1630,810,91,31,0,19,13,75,2380,640,174,11,68,25,amc
+36,Chicken Tender Box (No Sauce),1360,790,90,21,0,32,19,70,2180,640,110,8,23,30,amc
+37,Chicken Tenders 3 Pieces (Fried),430,240,27,4,,13,8,50,960,,24,2,,22,amc
+38,Chicken Tenders 5 Pieces (Fried),710,400,45,7,0,22,13,85,1600,,40,3,,37,amc
+39,Chili (2.5 Oz),110,60,7,2,0,,,20,620,,6,1,1,6,amc
+40,Chili Cheese Hot Dog,620,320,36,16,1.5,,1.5,85,1480,470,49,2,5,25,amc
+41,Curly Fries (Fried),630,390,44,9,0,13,5,,1130,700,54,5,3,5,amc
+42,Spicy Sriracha Dog,790,490,55,18,1.5,,1.5,80,1630,470,53,1,5,20,amc
+43,Four Cheese Flatbread Pizza,740,270,30,14,,,,70,1160,,84,4,8,32,amc
+44,Mustard & Kraut Dog,570,270,30,12,1.5,,1.5,65,1850,470,48,3,4,19,amc
+45,Hot Dog Box,1390,740,83,27,1.5,13,11,80,2510,1110,132,8,27,27,amc
+46,Jumbo Fries (Baked),850,290,33,9,,,,,950,1840,123,14,,14,amc
+47,Mozzarella Sticks (Fried),770,420,48,16,0,14,5,80,2400,200,56,8,8,32,amc
+48,Pepperoni Flatbread Pizza,840,350,40,16,,,,90,1420,,84,4,8,34,amc
+49,Plain Hot Dog,530,270,30,12,1.5,,1.5,65,1290,470,46,,4,19,amc
+50,Regular Fries (Baked),430,150,17,4.5,,,,,470,920,61,7,,7,amc
+51,Royal Garden Hot Dog,750,450,51,15,1.5,,1.5,75,1740,470,52,,7,20,amc
+52,Spicy Chicken Sandwich (Baked),410,140,16,2.5,,7,3.5,45,1170,,44,2,4,24,amc
+53,Gold Peak Brewed Tea - 16 fl oz,0,0,0,,,,,,15,180,1,,,,amc
+54,Gold Peak Brewed Tea - 20 fl oz,5,0,0,,,,,,20,220,2,,,,amc
+55,Gold Peak Brewed Tea - 30 fl oz,10,,,,,,,,25,330,3,,,,amc
+56,Gold Peak Brewed Tea - 44 fl oz,15,,,,,0,,,40,480,4,,,,amc
+57,Nacho Cheese (1 Portion Cups),160,90,10,2.5,,,,5,1100,,14,,3,3,amc
+58,Tostitos Chips,630,280,31,4.5,,,,,490,,81,4,,9,amc
+59,Apple Sauce,40,,,,,,,,5,75,10,,8,,amc
+60,BBQ Dipping Sauce,60,1,,,,,,,740,,16,,5,,amc
+61,Buffalo Dipping Sauce,15,,,,,,,,1650,,3,,,,amc
+62,Cocktail Seafood Sauce,10,,,,,,,,140,,3,,2,,amc
+63,Honey Mustard Dipping Sauce,80,10,1,,,,,,320,,18,,9,1,amc
+64,Pickle,30,,,,,,,,2790,,6,,,,amc
+65,Ranch Dripping Sauce,230,200,23,4,,,,20,470,,4,,3,1,amc
+66,Tostitos Cheese Sauce,160,100,11,1,,,,5,620,,15,1,1,1,amc
+67,Tostitos Salsa,35,,,,,,,,810,310,9,4,5,1,amc
+68,Bavarian Legend with Cheese Cup & Mustard,1920,310,35,15,,,,55,7600,,339,15,8,48,amc
+69,"Pretzel Bites (Plain - No Sauce, with Butter)",800,120,14,7,,0,3,30,550,0,155,5,5,20,amc
+70,Pretzel Bites: Add Cheese Cup,160,90,10,2.5,,,,5,1100,,14,,3,3,amc
+71,Pretzel Bites: Add Cinnamon Sugar,0,,,,,,,,0,,1,,,,amc
+72,Pretzel Bites: Add Honey Mustard,0,,,,,,,,10,,0,,,,amc
+73,Pretzel Bites: Add Icing Cup,230,50,6,3,,,,,45,,43,,40,,amc
+74,Pretzel Bites: Add Magic Dust,0,0,0,,,,,,0,,,,,0,amc
+75,Pretzel Bites: Add Salt,,,,,,,,,300,,,,,,amc
+76,Cheese Pizza,720,190,22,10,,,,50,1540,,98,4,10,28,amc
+77,Pepperoni Pizza,800,270,30,14,,,,60,1860,,100,4,10,32,amc
+78,Banana Smoothie 16 fl oz,260,,,,,,,,,,70,,66,,amc
+79,Banana Smoothie 24 fl oz,390,,,,,,,,,,105,,99,,amc
+80,Mango Peach Real Fruit Smoothie,210,0,0,0,0,,,,5,220,55,2,49,1,amc
+81,Mango Smoothie 16 fl oz,270,,,,,,,,50,,72,,68,,amc
+82,Mango Smoothie 24 fl oz,400,,,,,,,,75,,108,,103,,amc
+83,Peach Smoothie 16 fl oz,260,,,,,,,,20,0,69,,67,,amc
+84,Peach Smoothie 24 fl oz,390,,,,,,,,30,0,104,,101,,amc
+85,Strawberry Banana Real Fruit Smoothie,230,0,0,0,,0,,,10,330,59,3,46,1,amc
+86,Strawberry Banana Smoothie 16 fl oz,260,,,,,,,,,,68,,62,,amc
+87,Strawberry Banana Smoothie 24 fl oz,390,,,,,,,,,,102,,93,,amc
+88,Strawberry Smoothie 16 fl oz,260,,,,,,,,,,68,,62,,amc
+89,Strawberry Smoothie 24 fl oz,390,,,,,,,,,,102,,93,,amc
+90,Wildberry Real Fruit Smoothie,210,0,0,0,,0,0,,10,220,55,3,45,1,amc
+91,Chocolate Shake,830,340,38,25,1,0,1,135,270,25,107,3,89,12,amc
+92,Cookies & Cream Shake,1070,480,54,30,1,3,8,135,680,200,131,2,97,15,amc
+93,Espresso Shake,690,340,38,25,1,0,1,135,280,90,74,,64,11,amc
+94,Strawberry Shake,770,340,38,25,1,0,1,135,270,25,93,,83,10,amc
+95,Vanilla Shake,690,340,38,25,1,0,1,135,270,25,74,,64,10,amc
+96,Brownie Bites,480,190,21,4.5,,,,45,290,,66,3,36,6,amc
+97,Chocolate Chip Cookie,280,110,13,7,,1,4.5,15,190,,37,2,21,3,amc
+98,Churros,1480,800,90,45,,,,200,1600,,165,,35,20,amc
+99,Funnel Cake Fries,370,130,15,5,,,,35,380,0,57,,24,3,amc
+100,Nachos,346,102,45.6,0.5,4,5,0.6,10,0.6,0.8,0.1,0.9,0.4,2,amc
+101,Gummy Bears,200,50,,,,,,,,,,,,,amc
